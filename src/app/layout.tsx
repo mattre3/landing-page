@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin", "latin-ext"],
 });
 
-const siteUrl = "https://example.com";
+const siteUrl = "https://platformaprzedsiebiorcow.pl/cyfryzacja";
 const title = "Sfinansujemy i wdrożymy cyfryzację Twojej firmy | Digitalizacja procesów";
 const description =
   "Diagnozujemy procesy w Twojej firmie, projektujemy architekturę systemów, pomagamy sfinansować wdrożenie nawet w 100% i dostarczamy zespół, który to wdroży. CRM, automatyzacja, ERP, integracje i AI.";
